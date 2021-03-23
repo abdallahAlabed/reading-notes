@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Abdallah First Page
 
-You can use the [editor on GitHub](https://github.com/abdallahAlabed/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### Hi Iam abdallah alabed iam  backEnd software engineer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[facebook](https://web.facebook.com/abdalllah01/) 
+[linkdin](https://www.linkedin.com/in/abdallah-alabd-75549919a/) 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What Is A growth mindset ?
+
+**fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of  learning**
 
 ```markdown
 Syntax highlighted code block
