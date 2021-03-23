@@ -1,7 +1,6 @@
 ## Welcome to Abdallah First Page
 
 #### Hi Iam abdallah alabed iam  backEnd software engineer
-![broken image](src)
 
 [facebook](https://web.facebook.com/abdalllah01/) 
 
@@ -13,7 +12,7 @@
 
 
 ## What Is A growth mindset ?
-
+![growth mindset](https://edsurge.imgix.net/uploads/post/image/12467/mind_as_muscle-1565189295.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop)
 **fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of  learning**
 
 
