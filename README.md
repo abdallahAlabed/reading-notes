@@ -15,7 +15,12 @@
 | read01      | [read01](read01.md)  |
 | read02a     | [read02a](read02a.md)  |
 | read02b     | [read02b](read02b.md)  |
+| read03     | [read03](read03.md)  |
+| read04     | [read04](read04.md)  |
 | mindset     | [mindset](mindset.md)  |
+
+
+
 
 
 
