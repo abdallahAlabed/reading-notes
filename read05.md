@@ -5,16 +5,18 @@
 
 2. ### Comparison operators
 * 
-|Comparison operators  | |
-| -------|   |
+
+| Comparison operators       |    |
+| ------------| -----   |
 | ===    |   |
 | !==    |   |
 | ==     |   |
 | !=     |   |
 | <=     |   |
 | >=     |   |
-| <      |   |
+| <|     |   |
 | >      |   |
+
 are used to compare two operands.
 
  3. ### Logical operators
