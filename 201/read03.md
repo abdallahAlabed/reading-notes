@@ -1,5 +1,5 @@
 # **HTML Lists, CSS Boxes, JS Control Flow**
-<img src="https://geoinnova.org/blog-territorio/wp-content/uploads/2020/11/logos.png" width=300px>
+
 
 ## **HTML**
 ### **Ordered Lists**
@@ -74,3 +74,5 @@
   `do{`
   `do code`
   `}while(condtion is true)`
+
+  <img src="https://geoinnova.org/blog-territorio/wp-content/uploads/2020/11/logos.png" width=300px>
