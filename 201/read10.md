@@ -29,9 +29,9 @@ Use them to give your users helpful feedback.
 ## Flash ////Is no longer supported by many browsers
 Flash allows you to add animations, video and audio to
 the web.
-### Flash is not supported on iPhone or iPad.
+### Flash is not supported on iPhone or iPad
 
-### HTML5 introduces new <video> and `<audio>`
+### HTML5 introduces new `<video>` and `<audio>`
 elements for adding video and audio to web pages, but
 these are only supported in the latest browsers.
 
