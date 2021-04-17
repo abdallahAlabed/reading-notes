@@ -26,6 +26,19 @@ and gives a description of the error.
 it gracefully using the try, catch, finally statements.
 Use them to give your users helpful feedback. 
 
+## Flash ////Is no longer supported by many browsers
+Flash allows you to add animations, video and audio to
+the web.
+### Flash is not supported on iPhone or iPad.
+
+### HTML5 introduces new <video> and `<audio>`
+elements for adding video and audio to web pages, but
+these are only supported in the latest browsers.
+
+### Browsers that support the HTML5 elements do not
+all support the same video and audio formats, so you
+need to supply your files in different formats to ensure
+that everyone can see/hear them
 ## resources :
 
 * From the Duckett JS book
