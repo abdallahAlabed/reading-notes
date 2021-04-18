@@ -40,9 +40,7 @@ local computer to your web server.
 newsletters, e-commerce and other popular website
 tools (to save you writing them from scratch).
 
-
-
-### The ` <video> ` and ` <audio> ` elements allow us to embed video and audio into web pages. As we showed
+### The `<video>` and `<audio>` elements allow us to embed video and audio into web pages. As we showed
 ## resources :
 
 * From the Duckett JS book
