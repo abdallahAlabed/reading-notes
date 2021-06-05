@@ -60,7 +60,7 @@
 
 | clas 301      | link                   |
 | ------------| -----------------------  |
-| read01      | [read01]()  |
+| read01      | [read01](301/read01.md)  |
 | read02      | [read02]()  |
 | read03      | [read03]()  |
 | read04      | [read04]()  |
