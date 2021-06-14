@@ -8,8 +8,6 @@
 
 [github](https://github.com/abdallahAlabed) 
 
-
-
 | clas 102       | link        |
 | ------------| ----------------------|
 | read01      | [read01](read01.md)   |
@@ -20,8 +18,6 @@
 | read05     | [read05](read05.md)    |
 | read06     | [read06](read06.md)    |
 | mindset     | [mindset](mindset.md) |
-
-
 
 | clas 201       | link        |
 | ------------| -----------------------  |
@@ -41,7 +37,6 @@
 | Animations | [read14a](201/read14a.md)  |
 | Google Teams | [read14b](201/read14b.md)  |
 
-
 | clas 301      | link                   |
 | ------------| -----------------------  |
 | read01      | [read01](301/read01.md)  |
@@ -50,13 +45,9 @@
 | read04      | [read04](301/read04.md)  |
 | read05      | [read05](301/read05.md)  |
 | read06      | [read06](301/read06.md)  |
-| read07      | [read07](301/read06.md)  |
-| read08      | [read08](301/read07.md)  |
-| read09      | [read09](301/read08.md)  |
-| read10      | [read10](301/read09.md)  |
-| read11      | [read11](301/read10.md)  |
-| read12      | [read12](301/read11.md)  |
-
-
-
-
+| read07      | [read07](301/read07.md)  |
+| read08      | [read08](301/read08.md)  |
+| read09      | [read09](301/read09.md)  |
+| read10      | [read10](301/read10.md)  |
+| read11      | [read11](301/read11.md)  |
+| read12      | [read12](301/read12.md)  |
