@@ -8,8 +8,6 @@
 
 [github](https://github.com/abdallahAlabed) 
 
-
-
 | clas 102       | link        |
 | ------------| ----------------------|
 | read01      | [read01](read01.md)   |
@@ -20,8 +18,6 @@
 | read05     | [read05](read05.md)    |
 | read06     | [read06](read06.md)    |
 | mindset     | [mindset](mindset.md) |
-
-
 
 | clas 201       | link        |
 | ------------| -----------------------  |
@@ -40,7 +36,6 @@
 | Local Storage | [read13](201/read13.md) |
 | Animations | [read14a](201/read14a.md)  |
 | Google Teams | [read14b](201/read14b.md)  |
-
 
 | clas 301      | link                   |
 | ------------| -----------------------  |
