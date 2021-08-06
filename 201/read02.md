@@ -2,7 +2,6 @@ TEXT
 Headings : <h1> the biggest header <h2> <h3> <h4> <h5> <h6> the smallest heading
 Paragraph: <p>
 Bold: <b> 
-
 Italic: <i>
 Superscript  : <sup>  characters that should be superscript 
 Subscrip: <sub> contain characters that should be subscript. 
