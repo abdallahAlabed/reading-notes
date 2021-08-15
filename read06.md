@@ -17,7 +17,4 @@
 
 5. ####  CSS rules 
 * usually appear in a separate document although they may appear within an HTML page
-
-
-
-
+batata
