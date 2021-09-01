@@ -84,3 +84,4 @@
 | read27      | [read27](401/read27.md)  |
 | RecyclerView | [read28](401/read28.md)  |
 | Room        | [read29](401/read29.md)  |
+| Hash Tables  | [read30](401/read30.md)  |
