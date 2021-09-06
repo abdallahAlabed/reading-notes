@@ -86,3 +86,4 @@
 | Room        | [read29](401/read29.md)  |
 | Hash Tables  | [read30](401/read30.md)  |
 |  Espresso  | [read31](401/read31.md)  |
+|  Intro to Serverless  | [read32](401/read32.md)  |
