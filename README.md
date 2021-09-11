@@ -88,4 +88,5 @@
 |  Espresso  | [read31](401/read31.md)  |
 |  Intro to Serverless  | [read32](401/read32.md)  |
 |   GraphQL   | [read33](401/read33.md)  |
+|   GraphQL   | [read33](401/read33.md)  |
 
