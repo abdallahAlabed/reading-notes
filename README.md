@@ -88,7 +88,9 @@
 |  Espresso  | [read31](401/read31.md)  |
 |  Intro to Serverless  | [read32](401/read32.md)  |
 |   GraphQL   | [read33](401/read33.md)  |
-|   Monetization   | [read33](401/read34.md)  |
-|   Graphs   | [read33](401/read35.md)  |
+|   Monetization   | [read34](401/read34.md)  |
+|   Graphs   | [read35](401/read35.md)  |
+|   Cognito   | [read36](401/read36.md)  |
+
 
 
