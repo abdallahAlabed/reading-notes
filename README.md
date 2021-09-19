@@ -93,6 +93,7 @@
 |   Cognito   | [read36](401/read36.md)  |
 |   S3   | [read37](401/read37.md)  |
 |   Notifications  | [read38](401/read38.md)  |
+|   Intent Filters  | [read39](401/read39.md)  |
 
 
 
