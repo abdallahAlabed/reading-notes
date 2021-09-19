@@ -94,6 +94,7 @@
 |   S3   | [read37](401/read37.md)  |
 |   Notifications  | [read38](401/read38.md)  |
 |   Intent Filters  | [read39](401/read39.md)  |
+|   location | [read40 ](401/read40.md)  |
 
 
 
