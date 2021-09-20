@@ -95,6 +95,7 @@
 |   Notifications  | [read38](401/read38.md)  |
 |   Intent Filters  | [read39](401/read39.md)  |
 |   location | [read40 ](401/read40.md)  |
+|    Kinesis & Analytics | [read41 ](401/read41.md)  |
 
 
 
